@@ -1,7 +1,7 @@
-Milo Trendel
-46 rue d’Artois
-59000 Lille
-07.83.54.75.80
+Milo Trendel \
+46 rue d’Artois \
+59000 Lille \
+07.83.54.75.80 
 
 
 Objet : Demande de stage en développement jeux vidéos.	
